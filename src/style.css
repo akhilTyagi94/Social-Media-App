@@ -36,6 +36,14 @@ body {
   overflow-x: hidden;
 }
 
+button {
+  font-family: "Poppins", sans-serif;
+}
+
+input {
+  font-family: "Poppins", sans-serif;
+}
+
 .container {
   width: 80%;
   margin: 0 auto;
