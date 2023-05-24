@@ -539,7 +539,6 @@ main .container .right {
   left: 0;
   z-index: 100;
   text-align: center;
-  display: grid;
   place-items: center;
   font-size: 0.9rem;
   display: none;
@@ -550,6 +549,7 @@ main .container .right {
   padding: 3rem;
   border-radius: var(--card-border-radius);
   width: 50%;
+  box-shadow: 0 0 1rem var(--color-primary);
 }
 
 .customize-theme .font-size {
@@ -705,6 +705,10 @@ main .container .right {
   .left .btn {
     display: none;
   }
+
+  .customize-theme .card {
+    width: 80vw;
+  }
 }
 
 @media screen and (max-width: 992px) {
@@ -743,5 +747,9 @@ main .container .right {
 
   main .container .right {
     display: none;
+  }
+
+  .customize-theme .card {
+    width: 92vw;
   }
 }
