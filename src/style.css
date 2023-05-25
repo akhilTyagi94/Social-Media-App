@@ -1,8 +1,10 @@
 :root {
+  --primary-color-hue: 252;
   --color-white: #ffffff;
   --color-light: #f0eef6;
   --color-gray: #9e98b3;
-  --color-primary: #6b4ce6;
+  /* --color-primary: #6b4ce6; */
+  --color-primary: hsl(var(--primary-color-hue), 75%, 60%);
   --color-secondary: #d6ccff;
   --color-success: #51fb51;
   --color-danger: #fb5151;
