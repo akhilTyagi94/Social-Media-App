@@ -20,13 +20,18 @@ In addition to selecting a theme color, users can also customize the font color 
 
 ## Screenshots
 
+### Customization Panel
+
+![Customization Panel](./src/images/Screenshots/Social_Media_App_Customization_Panel.png)
+
 ### Desktop View
+
 ![Desktop View](./src/images/Screenshots/Social_Media_App_Desktop.png)
 
 ### Tablet View
+
 ![Tablet View](./src/images/Screenshots/Social_Media_App_Tablet.png)
 
 ### Mobile View
-![Mobile View](./src/images/Screenshots/Social_Media_App_Mobile.png)
 
-### Customization Panel
+![Mobile View](./src/images/Screenshots/Social_Media_App_Mobile.png)
